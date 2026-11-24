@@ -1,0 +1,6 @@
+{
+  "name": "Karsa Dirtworks — GSX-S150 Vintage Dirt Bike Studio",
+  "description": "Studio desain ulang & blueprint modifikasi Vintage Dirt Bike berbasis Suzuki GSX-S150 dengan komparasi visual, inspeksi komponen, dan kalkulator fabrikasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
